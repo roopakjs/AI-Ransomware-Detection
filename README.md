@@ -417,6 +417,6 @@ Consider giving the repository a star on GitHub.
 
 --------------------------------------------------------------------------------------------------
 
-[🚀 **Live Demo — Launch SENTINEL**](https://sentinel-threat-detection.streamlit.app/)
+🚀LIVE DEMO:- (https://sentinel-threat-detection.streamlit.app/)
 
 SENTINEL is a machine-learning-based cybersecurity prototype...
