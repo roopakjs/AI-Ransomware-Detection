@@ -1,0 +1,31 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large/raw datasets
+dataset/
+
+# Local test files
+test_data.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# Secrets
+.env
+*.env
+
+# Streamlit
+.streamlit/secrets.toml
