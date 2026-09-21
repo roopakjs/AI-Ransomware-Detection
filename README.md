@@ -398,3 +398,25 @@ This project is intended for educational and defensive cybersecurity research pu
 ⭐ If you find this project useful
 
 Consider giving the repository a star on GitHub.
+----------------------------------------------------------------------------------------------------
+---
+
+# 🖥️ Application Screenshots
+
+## SENTINEL Dashboard
+
+![SENTINEL Dashboard](reports/screenshots/dashboard.png)
+
+## Threat Detection Results
+
+![Threat Detection Results](reports/screenshots/detection-results.png)
+
+## Model Performance
+
+![Model Performance](reports/screenshots/model-performance.png)
+
+---
+
+# 🚀 Live Demo
+
+[Launch SENTINEL](https://sentinel-threat-detection.streamlit.app/)
