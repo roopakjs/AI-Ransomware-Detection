@@ -405,15 +405,15 @@ Consider giving the repository a star on GitHub.
 
 ## SENTINEL Dashboard
 
-![SENTINEL Dashboard](reports/screenshots/dashboard.png)
+<img src="./reports/screenshots/dashboard.png" alt="SENTINEL Dashboard">
 
 ## Threat Detection Results
 
-![Threat Detection Results](reports/screenshots/detection-results.png)
+<img src="./reports/screenshots/detection-results.png" alt="Threat Detection Results">
 
 ## Model Performance
 
-![Model Performance](reports/screenshots/model-performance.png)
+<img src="./reports/screenshots/model-performance.png" alt="Model Performance">
 
 ---
 
