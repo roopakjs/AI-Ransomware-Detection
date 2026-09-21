@@ -415,8 +415,8 @@ Consider giving the repository a star on GitHub.
 
 <img src="./reports/screenshots/model-performance.png" alt="Model Performance">
 
----
+--------------------------------------------------------------------------------------------------
 
-# 🚀 Live Demo
+[🚀 **Live Demo — Launch SENTINEL**](https://sentinel-threat-detection.streamlit.app/)
 
-[Launch SENTINEL](https://sentinel-threat-detection.streamlit.app/)
+SENTINEL is a machine-learning-based cybersecurity prototype...
